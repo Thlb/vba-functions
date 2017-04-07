@@ -4,7 +4,7 @@ Some vba functions...
 
 ## Scripts
 
-### export-vba-components.bas.vb : export all 
+### export-vba-components.bas.vb
 
 Export all vba components in external files in order to be able to git them
 
